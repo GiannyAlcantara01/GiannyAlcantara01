@@ -1,5 +1,5 @@
 ## Gianny Aram Alcántara Sánchez  :upside_down_face:
-## Estudiante de la carrera en Ingeniería en Mecatrónica en la Universidad Tecnológica de la Mixteca
+#### Estudiante de la carrera en Ingeniería en Mecatrónica en la Universidad Tecnológica de la Mixteca
 <!--
 **GiannyAlcantara01/GiannyAlcantara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
