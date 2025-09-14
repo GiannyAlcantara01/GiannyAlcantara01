@@ -3,7 +3,7 @@ Estudiante de la carrera en Ingeniería en Mecatrónica en la Universidad Tecnol
 
 A lo largo de sus estudios universitarios ha utilizado diferentes softwares de diseño, electrónica analógica, electrónica digital y matemáticos; como SolidWorks, Ansys Workbench,  Multisim, Proteus, Circuit Wizard, CircuitMaker, PSIM, LiveWire, Xilinx ISE, Arduino, Maple, MatLab, entre otros.
 
-Posee habilidades que le permiten trabajar satisfactoriamente de forma colaborativa y de forma individual; como comunicación efectiva, liderazgo, capacidad de resolución de problemas, cretividad y pensamiento crítico.
+Posee habilidades que le permiten trabajar satisfactoriamente de forma colaborativa y de forma individual; como comunicación efectiva	:speaking_head:, liderazgo, capacidad de resolución de problemas, cretividad y pensamiento crítico.
 <!--
 **GiannyAlcantara01/GiannyAlcantara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
