@@ -6,7 +6,10 @@ A lo largo de sus estudios universitarios ha utilizado diferentes softwares de d
 Posee habilidades que le permiten trabajar satisfactoriamente de forma colaborativa y de forma individual; como comunicación efectiva 🗣️, liderazgo 👨‍⚖️, capacidad de resolución de problemas 🛠️, cretividad 🎨 y pensamiento crítico 🧠.
 
 Redes sociales:
-[Instagram](https://www.instagram.com/gianny_alcantara)
+[![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://www.instagram.com/gianny_alcantara/)
+
+[Link](https://www.instagram.com/gianny_alcantara)
+
 [Facebook](https://www.facebook.com/gianny.alcantara.04)
 <!--
 **GiannyAlcantara01/GiannyAlcantara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
