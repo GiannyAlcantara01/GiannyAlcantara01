@@ -1,7 +1,7 @@
 ## Gianny Aram Alcántara Sánchez  :upside_down_face:
 
 <p align="center">
-  <img src="C:\Users\alcan\OneDrive\Documentos\UTM\7° Semestre\Control Clásico\IEM.jpg" width="200"/>
+  <img src="IEM.jpg" width="1000"/>
 </p>
 
 Estudiante de la carrera en Ingeniería en Mecatrónica ⚙️ en la Universidad Tecnológica de la Mixteca. En el año 2022 se graduó del Centro de Bachillerato Tecnológico Industrial y de Servicios #183 con una carrera técnica en Electricidad ⚡.
